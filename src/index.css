@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  font-family: JetBrains Mono;
+  word-spacing: -5px;
+  letter-spacing: -1px;
+}
